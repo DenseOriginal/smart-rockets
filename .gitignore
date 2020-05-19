@@ -1,0 +1,4 @@
+.vscode
+/out
+application.windows32/*
+application.windows64/*
